@@ -1,5 +1,5 @@
-FROM alpine:3.2
-MAINTAINER Azuki <support@azukiapp.com>
+FROM alpine:3.10
+MAINTAINER John P Bloch <docker@johnpbloch.com>
 
 ENV BIND_VERSION 9.10.3
 
